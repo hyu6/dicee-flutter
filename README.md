@@ -1,10 +1,5 @@
 # Dicee 🎲
 
-A Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
+A dice app.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
